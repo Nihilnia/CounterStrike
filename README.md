@@ -1,5 +1,7 @@
 ## Counter Strike 2
 
+![Header](https://raw.githubusercontent.com/Nihilnia/CounterStrike/refs/heads/main/media/cs2Header.png)
+
 Build ID: 20940526 <br/>
 Installed content updated: Nov 26, 2025 at 12:48 AM
 <br/><br/>
