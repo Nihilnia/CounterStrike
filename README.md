@@ -1,9 +1,6 @@
-# CounterStrike
-Archive for CS related stuff
+## Counter Strike 2
 
-### Counter Strike 2
-
-#### List of console commands and variables
+### List of console commands and variables
 Build ID: 20940526 <br/>
 Installed content updated: Nov 26, 2025 at 12:48 AM
 
