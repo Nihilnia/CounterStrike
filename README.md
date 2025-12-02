@@ -16,8 +16,8 @@ Installed content updated: Nov 26, 2025 at 12:48 AM
 
 Currently there are 2749 console commands available to use.
 
-[MD file](/Counter%20Strike%202/List%20of%20sounds.md) <br/>
-[Plain text version](/Counter%20Strike%202/List%20of%20sounds.txt)
+[MD file](/Counter%20Strike%202/List%20of%20console%20commands%20and%20variables.md) <br/>
+[Plain text version](/Counter%20Strike%202/List%20of%20console%20commands%20and%20variables.txt)
 
 #### To extract all the available commands:
 Open console and run `cvarlist`. <br/>
@@ -34,8 +34,8 @@ If there' s buffer limit you can execute the command letter by letter, just like
 
 Currently there are 19492 sound files available to use.
 
-[MD file](/Counter%20Strike%202/List%20of%20console%20commands%20and%20variables.md) <br/>
-[Plain text version](/Counter%20Strike%202/List%20of%20console%20commands%20and%20variables.txt)
+[MD file](/Counter%20Strike%202/List%20of%20sounds.md) <br/>
+[Plain text version](/Counter%20Strike%202/List%20of%20sounds.txt)
 
 #### To extract all the sound files:
 You can use [Source 2 Viewer](https://s2v.app/). <br/>
